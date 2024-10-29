@@ -1,4 +1,4 @@
-package com.brendan.temporal.myWorkflow;
+package com.example.workflows;
 
 import io.temporal.workflow.SignalMethod;
 import io.temporal.workflow.WorkflowInterface;

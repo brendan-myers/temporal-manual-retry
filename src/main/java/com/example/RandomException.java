@@ -1,4 +1,4 @@
-package com.brendan.temporal.myWorkflow;
+package com.example;
 
 public class RandomException extends Exception {
     public RandomException(String message) {

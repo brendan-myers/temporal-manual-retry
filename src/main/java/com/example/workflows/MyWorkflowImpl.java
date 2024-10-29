@@ -1,8 +1,12 @@
-package com.brendan.temporal.myWorkflow;
+package com.example.workflows;
 
 import java.time.Duration;
 
 import org.slf4j.Logger;
+
+import com.example.RandomException;
+import com.example.RetryType;
+import com.example.activities.MyActivity;
 
 import io.temporal.activity.ActivityOptions;
 import io.temporal.common.RetryOptions;

@@ -1,4 +1,4 @@
-package com.brendan.temporal.myWorkflow;
+package com.example.activities;
 
 import io.temporal.activity.ActivityInterface;
 

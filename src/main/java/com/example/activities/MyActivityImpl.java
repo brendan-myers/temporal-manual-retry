@@ -1,6 +1,8 @@
-package com.brendan.temporal.myWorkflow;
+package com.example.activities;
 
 import org.springframework.stereotype.Component;
+
+import com.example.RandomException;
 
 import io.temporal.activity.Activity;
 import io.temporal.spring.boot.ActivityImpl;
